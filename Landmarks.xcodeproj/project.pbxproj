@@ -68,7 +68,7 @@
 		591A6E7425F5799A00E8607C /* Landmarks */ = {
 			isa = PBXGroup;
 			children = (
-				591A6E8D25F5B70C00E8607C /* Model */,
+				5976590225F5D1E300F8A974 /* Model */,
 				599412DC25F5BB8800558BB6 /* View */,
 				591A6E7525F5799A00E8607C /* LandmarksApp.swift */,
 				591A6E7925F5799C00E8607C /* Assets.xcassets */,
@@ -86,15 +86,14 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		591A6E8D25F5B70C00E8607C /* Model */ = {
+		5976590225F5D1E300F8A974 /* Model */ = {
 			isa = PBXGroup;
 			children = (
 				591A6E9425F5B8C900E8607C /* landmarkData.json */,
 				591A6E9125F5B75400E8607C /* Landmark.swift */,
 				599412D925F5BB2A00558BB6 /* ModelData.swift */,
 			);
-			name = Model;
-			path = "New Group";
+			path = Model;
 			sourceTree = "<group>";
 		};
 		599412DC25F5BB8800558BB6 /* View */ = {
