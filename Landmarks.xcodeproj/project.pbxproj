@@ -889,6 +889,7 @@
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"WatchLandmarks Extension/Preview Content\"";
+				DEVELOPMENT_TEAM = S7TYYXV76U;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "WatchLandmarks Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -912,6 +913,7 @@
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"WatchLandmarks Extension/Preview Content\"";
+				DEVELOPMENT_TEAM = S7TYYXV76U;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "WatchLandmarks Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
